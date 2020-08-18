@@ -29,7 +29,7 @@ h1 {
     grid-column-start: 1;
     grid-column-end: 3;
     color: rgb(104, 85, 57);
-    font-size: 48pt;
+    font-size: 37pt;
     font-family: 'Playfair Display', sans-serif;
   
     background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
