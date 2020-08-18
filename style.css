@@ -7,9 +7,7 @@ body {
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
     color: #000;
-    display: grid;
     align-items: center;
-    grid-template-columns: 300px auto;
     background-repeat: no-repeat;
 }
 
@@ -25,9 +23,6 @@ body:after {
 }
 
 h1 {
-    grid-row-start: 1;
-    grid-column-start: 1;
-    grid-column-end: 3;
     color: rgb(104, 85, 57);
     font-size: 37pt;
     font-family: 'Playfair Display', sans-serif;
@@ -40,8 +35,6 @@ h1 {
 }
 
 img {
-    grid-row-start: 2;
-    grid-column-start: 1;
     max-width: 200px;
     max-height: 200px;
     border-radius: 10px;
@@ -51,8 +44,6 @@ img {
 
 ul {
     list-style-type: none;
-    grid-row-start: 2;
-    grid-column-start: 2;
     width: 200px;
     font-size: 14pt;
 } 
