@@ -103,4 +103,8 @@ a {
               transform: translate3d(-75%, 0%, 0);
     }
   }
-  
+
+.links {
+    list-style-type: none;
+}
+      
