@@ -5,28 +5,15 @@ body {
     background-image: url('background.jpg');
     background-size: cover;
     padding: 100px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
     color: #000;
     align-items: center;
     background-repeat: no-repeat;
 }
 
-body:after {
-    content: "Thanks to Unsplash (background image)";
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding: 10px;
-    color: #919191;
-    font-size: 10pt;
-}
-
 h1 {
     color: rgb(104, 85, 57);
-    font-size: 37pt;
-    font-family: 'Playfair Display', sans-serif;
-  
+    font-size: 2em;
     background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
@@ -35,10 +22,9 @@ h1 {
 }
 
 h2 {
-     font-family: 'Permanent Marker', cursive;
      color: rgb(28, 33, 104);
      background-color: rgba(245, 233, 149, 0.5);
-     font-size: 18pt;
+     font-size: 1em;
 }
 
 img {
@@ -47,14 +33,6 @@ img {
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 50px;
-}
-
-ul {
-    font-size: 14pt;
-} 
-
-li {
-    padding-top: 10px;
 }
 
 a {
@@ -107,4 +85,3 @@ a {
 .links {
     list-style-type: none;
 }
-      
