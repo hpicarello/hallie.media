@@ -3,7 +3,7 @@ body {
     background: #e9e9e9;
     background-image: url('background.jpg');
     background-size: cover;
-    padding: 100px;
+    padding: 1em;
     font-family: 'Libre Baskerville', serif;
     color: #000;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    color: rgb(104, 85, 57);
+    color: rgb(166, 184, 7);
     font-size: 2em;
     background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
     background-repeat: no-repeat;
