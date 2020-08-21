@@ -10,6 +10,10 @@ body {
     background-repeat: no-repeat;
 }
 
+header p {
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
 h1 {
     color: #BBBB44;
     font-size: 2em;
