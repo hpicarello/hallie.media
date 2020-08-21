@@ -1,0 +1,21 @@
+{
+  "name": "hallie.media",
+  "version": "1.0.0",
+  "description": "Hallie's home on the internet.",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpicarello/hallie.media.git"
+  },
+  "keywords": [
+    "social media"
+  ],
+  "author": "Hallie Picarello <hpicarello@me.com>",
+  "bugs": {
+    "url": "https://github.com/hpicarello/hallie.media/issues"
+  },
+  "homepage": "https://github.com/hpicarello/hallie.media#readme"
+}
